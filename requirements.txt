@@ -14,3 +14,21 @@ imageio-ffmpeg
 flash_attn
 gradio>=5.0.0
 numpy>=1.23.5,<2
+# Additional dependencies for AI Movie Maker
+pillow>=10.0.0
+pyyaml>=6.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+requests>=2.31.0
+aiohttp>=3.8.0
+websockets>=11.0
+psutil>=5.9.0
+# Optional: for CodeLlama integration
+sentencepiece>=0.1.99
+protobuf>=4.21.0
+# Optional: for audio processing (talking characters)
+librosa>=0.10.0
+soundfile>=0.12.0
+# Optional: for advanced video processing
+ffmpeg-python>=0.2.0
