@@ -14,3 +14,44 @@ imageio-ffmpeg
 flash_attn
 gradio>=5.0.0
 numpy>=1.23.5,<2
+# AI Movie Maker Enhanced Dependencies
+ip-adapter-plus-face-sd-1.5
+controlnet-aux
+safetensors
+omegaconf
+einops
+xformers
+# Physics and 3D
+pybullet
+trimesh
+open3d
+# Audio and Speech
+torchaudio
+librosa
+soundfile
+# Enhanced UI and Processing
+pillow
+matplotlib
+seaborn
+plotly
+# Code Llama Integration
+llama-cpp-python
+# Additional AI Models
+clip
+open_clip_torch
+# Video Processing
+ffmpeg-python
+moviepy
+# Character Consistency
+facexlib
+insightface
+# Physics World Engine
+pymunk
+pygame
+# Self-Improvement Mechanism
+wandb
+tensorboard
+# Workflow Orchestration
+prefect
+celery
+redis
